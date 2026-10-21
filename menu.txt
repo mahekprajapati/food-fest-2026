@@ -3,3 +3,5 @@ Food Festival 2026
 Stall 1: Pizza Palace - Pizza
 Stall 2: Sweet Treats - Desserts
 Stall 3: Spice Corner - Pav Bhaji
+
+Stall 4: Cool Drinks - Fresh Juice
